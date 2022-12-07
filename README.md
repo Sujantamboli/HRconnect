@@ -23,7 +23,7 @@ be in following format
 -create class object and class the method of class for access the method
 
 ## TASK 2
-Write a program to get "HIRE DATE" of employee who's department is within range 30
+Write a program to get "HIRE DATE" of employee who department is within range 30
 to 110 AND who salary is > 4200.
 The output should be in following format.
 
