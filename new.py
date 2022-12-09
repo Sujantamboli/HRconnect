@@ -1,1 +1,1 @@
-print("HELLO WORsLD!!!!!!!!")
+print("HELLO WORLD!!!!!!!!")
