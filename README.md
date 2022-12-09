@@ -13,7 +13,7 @@ be in following format
 - import csv module
 - creating the class of File Handler
 - open csv file 
-- access the dtat from csv file
+- access the data from csv file
 - line bye line 
 - all file in DictRead mood
   - access data in form of dictionary
@@ -23,9 +23,10 @@ be in following format
 -create class object and class the method of class for access the method
 
 ## TASK 2
+
 Write a program to get "HIRE DATE" of employee who's department is within range 30
 to 110 AND who is salary is > 4200.
-The output should be in following format.
+
 
 {
 "<HIRE DATE in YYYY-MM-DD format>": [
@@ -40,7 +41,7 @@ The output should be in following format.
 - create the class of different method
 - method for access the employees hire date and salary > 4200
   - access of employees DEPARTMENT_ID
-  - comapare the id 
+  - compare the id 
   - access the compare id employees name and Hire date 
-  - To store in dictionary format acess the method from cs .py file 
+  - To store in dictionary format access the method from cs .py file 
   - create class object and call the method of class for details
