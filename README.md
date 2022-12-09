@@ -24,7 +24,7 @@ be in following format
 
 ## TASK 2
 Write a program to get "HIRE DATE" of employee who's department is within range 30
-to 110 AND who salary is > 4200.
+to 110 AND who is salary is > 4200.
 The output should be in following format.
 
 {
